@@ -13,14 +13,14 @@ body{
 }
 
 .img1{
-    width: 100%;
+    width:435px ;
     height: 254px;
     position: absolute;
     z-index: 2;
 }
 
 .img2{
-    width: 100%;
+    width: 558px;
     height: 254px;
     left: 371px;
     position: relative;
@@ -28,11 +28,15 @@ body{
 }
 
 .img3{
-    width: 100%;
+    width: 421px;
     height: 254px;
     left: 859px;
     z-index: 2;
     position: absolute;
+}
+
+.d-flex{
+    display: flex;
 }
 
 p{
