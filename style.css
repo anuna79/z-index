@@ -13,14 +13,14 @@ body{
 }
 
 .img1{
-    width:33.33px ;
+    width:33.33%;
     height: 254px;
     position: absolute;
     z-index: 2;
 }
 
 .img2{
-    width: 33.33px;
+    width: 33.33%;
     height: 254px;
     left: 371px;
     position: relative;
@@ -28,7 +28,7 @@ body{
 }
 
 .img3{
-    width: 33.33px;
+    width: 33.33%;
     height: 254px;
     left: 859px;
     z-index: 2;
